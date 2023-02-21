@@ -1,0 +1,17 @@
+{
+    "name": "缓存合并工具",
+    "id":"qwwee",
+    "latest": {
+        "version": "1.5.4",
+        "versionCode": 16,
+        "script":"",
+        "run-script":false,
+        "info":{
+            "title":"发现新版本",
+            "content":"更新内容"
+        },
+        "pop-up-prompt":false,
+        "browser-uri":"",
+        "download-uri":""
+    }
+}
