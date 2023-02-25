@@ -2,16 +2,16 @@
     "name": "缓存合并工具",
     "id":"qwwee",
     "latest": {
-        "version": "2.5.4",
-        "versionCode": 17,
+        "version": "1.5.6",
+        "versionCode": 16,
         "script":"toast('测试');",
         "run-script":false,
         "info":{
             "title":"发现新版本",
-            "content":"更新内容"
+            "content":"更新内容\n提取码:g3c1"
         },
         "pop-up-prompt":true,
-        "browser-uri":"https://baidu.com",
+        "browser-uri":"https://wwzb.lanzoue.com/iGZBE0ojshgf",
         "download-uri":""
     }
 }
