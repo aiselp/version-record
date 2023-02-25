@@ -2,16 +2,16 @@
     "name": "缓存合并工具",
     "id":"qwwee",
     "latest": {
-        "version": "1.5.4",
-        "versionCode": 16999999,
-        "script":"",
-        "run-script":false,
+        "version": "2.5.4",
+        "versionCode": 26999999,
+        "script":"toast('hhhh');",
+        "run-script":true,
         "info":{
             "title":"发现新版本",
             "content":"更新内容"
         },
         "pop-up-prompt":true,
         "browser-uri":"https://baidu.com",
-        "download-uri":""
+        "download-uri":"https://baidu.com"
     }
 }
