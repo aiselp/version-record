@@ -3,7 +3,7 @@
     "id":"qwwee",
     "latest": {
         "version": "2.5.4",
-        "versionCode": 16,
+        "versionCode": 17,
         "script":"toast('测试');",
         "run-script":false,
         "info":{
