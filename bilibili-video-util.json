@@ -3,15 +3,15 @@
     "id":"qwwee",
     "latest": {
         "version": "2.5.4",
-        "versionCode": 26999999,
-        "script":"toast('hhhh');",
-        "run-script":true,
+        "versionCode": 16,
+        "script":"toast('测试');",
+        "run-script":false,
         "info":{
             "title":"发现新版本",
             "content":"更新内容"
         },
         "pop-up-prompt":true,
         "browser-uri":"https://baidu.com",
-        "download-uri":"https://baidu.com"
+        "download-uri":""
     }
 }
