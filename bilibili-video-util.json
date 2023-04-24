@@ -2,16 +2,16 @@
     "name": "缓存合并工具",
     "id":"qwwee",
     "latest": {
-        "version": "1.5.6",
+        "version": "1.5.7",
         "versionCode": 16,
         "script":"toast('测试');",
         "run-script":false,
         "info":{
             "title":"发现新版本",
-            "content":"更新内容\n提取码:g3c1"
+            "content":"更新内容:尝试修复部分设备打开web-ui白屏，添加简易视频播放器，添加缩略图缓存，ui修复\n提取码:1hw0"
         },
         "pop-up-prompt":true,
-        "browser-uri":"https://wwzb.lanzoue.com/iGZBE0ojshgf",
+        "browser-uri":"https://wwzb.lanzoue.com/iSDCx0tuaneh",
         "download-uri":""
     }
 }
